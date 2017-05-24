@@ -65,4 +65,23 @@ Contributors (chronological)
 - Mike Yumatov `@yumike <https://github.com/yumike>`_
 - Tim Mundt `@Tim-Erwin <https://github.com/Tim-Erwin>`_
 - Russell Davies `@russelldavies <https://github.com/russelldavies>`_
+- Jared Deckard `@deckar01 <https://github.com/deckar01>`_
 - David Thornton `@davidthornton <https://github.com/davidthornton>`_
+- Vuong Hoang `@vuonghv <https://github.com/vuonghv>`_
+- David Bertouille `@dbertouille <https://github.com/dbertouille>`_
+- Alexandre Bonnetain `@Shir0kamii <https://github.com/Shir0kamii>`_
+- Tuukka Mustonen `@tuukkamustonen <https://github.com/tuukkamustonen>`_
+- Tero Vuotila `@tvuotila <https://github.com/tvuotila>`_
+- Paul Zumbrun `@pauljz <https://github.com/pauljz>`_
+- Gary Wilson Jr. `@gdub <https://github.com/gdub>`_
+- Sabine Maennel `@sabinem <https://github.com/sabinem>`_
+- Victor Varvaryuk `@mindojo-victor <https://github.com/mindojo-victor>`_
+- Jāzeps Baško `@jbasko <https://github.com/jbasko>`_
+- `@podhmo <https://github.com/podhmo>`_
+- Dmitry Orlov `@mosquito <https://github.com/mosquito>`_
+- Yuri Heupa `@YuriHeupa <https://github.com/YuriHeupa>`_
+- Roy Williams `@rowillia <https://github.com/rowillia>`_
+- Vlad Frolov `@frol <https://github.com/frol>`_
+- Erling Børresen `@erlingbo <https://github.com/erlingbo>`_
+- Jérôme Lafréchoux  `@lafrech <https://github.com/lafrech>`_
+- Roy Williams `@rowillia <https://github.com/rowillia>`_
